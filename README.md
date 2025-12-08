@@ -16,9 +16,9 @@
     <br>
     <b>Code Strategy:</b> <span style="color:#00FF41">Ctrl+C</span>, <span style="color:#00FF41">Ctrl+V</span> & blaming the Dataset.
     <br>
-    <b>Fuel Source:</b> No coffee needed. I run on pure <b>CachyOS</b> optimization and curiosity.
+    <b>Fuel Source:</b> No coffee needed. I run on pure <b>curiosity</b> .
     <br>
-    <b>Current Status:</b> Training models and losing my sanity (Validation Loss: High).
+    <b>Current Status:</b> Training models and (occasionally) losing my sanity.
   </samp>
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center"> 
   <samp>
-    Yo, I'm <b>Kağan</b>.
+    Hi, I'm <b>Kağan Yorulmaz</b>.
     <br>
     Computer Engineering Student focused on <b>Artificial Intelligence</b> & <b>Low-Level Systems</b>.
     <br>
